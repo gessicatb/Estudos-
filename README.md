@@ -1,1 +1,1 @@
-Arquivos para o estudo do Blade
+Arquivos para o estudo do Blade - html
